@@ -6,7 +6,7 @@
 
 *Two-stage computer vision pipeline — YOLOv8 detection → EfficientNetV2S classification → GradCAM explainability*
 
-**Team:** Koustav Manna · Satyam Singh
+
 
 ---
 
